@@ -6,7 +6,7 @@
 .item-1{
     height: 150px;
     width: 100%;
-    background-image: url(image-omelette.jpeg);
+    background-image: url(https://github.com/John1999-debug/Recipe_page/blob/main/image-omelette.jpeg?raw=true);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -183,7 +183,7 @@ span4{
         width: 400px;
         height: 180px;
         margin: 20px;
-        background-image: url(image-omelette.jpeg);
+        background-image: url(https://github.com/John1999-debug/Recipe_page/blob/main/image-omelette.jpeg?raw=true);
         background-size: contain;
         background-repeat: no-repeat;
         border-radius: 8px;
